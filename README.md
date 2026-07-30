@@ -1,4 +1,3 @@
-# Calculation-methods
 # Numerical Methods & Computational Mathematics (`Calculation-methods`)
 
 This repository contains a curated collection of Jupyter Notebooks dedicated to the implementation and analysis of core numerical methods, scientific computing, and applied linear algebra in **Python**.
