@@ -40,19 +40,6 @@ The primary goal of this repository is to demonstrate the underlying mechanics, 
 
 ---
 
-## 📂 Repository Structure
-
-```text
-.
-├── LICENSE                      # Repository license
-├── README.md                    # Project documentation
-├── lab_LU_decomposition.ipynb   # LU decomposition and linear system solvers
-├── lab_nonlinear_eq.ipynb       # Root-finding algorithms for non-linear equations
-├── lab_interpolation.ipynb      # Interpolation techniques (Lagrange, Newton, LSM)
-├── lab_integration.ipynb        # Numerical integration methods
-└── ...                          # Additional computational Jupyter Notebooks
-```
-
 # Чисельні методи та прикладна математика (`Calculation-methods`)
 
 Даний репозиторій містить серію дослідницьких Jupyter Notebooks, присвячених реалізації фундаментальних методів обчислювальної математики, чисельного аналізу та розв'язання задач лінійної алгебри мовою **Python**.
@@ -96,15 +83,3 @@ The primary goal of this repository is to demonstrate the underlying mechanics, 
 * **Оцінка точності:** Використання правило Рунге для контролю похибки та автоматичного вибору кроку інтегрування.
 
 ---
-
-## 📂 Структура репозиторію
-
-```text
-.
-├── LICENSE                      # Ліцензія репозиторію
-├── README.md                    # Основна документація проєкту
-├── lab_LU_decomposition.ipynb   # Реалізація LU-розкладу та розв'язання СЛАР
-├── lab_nonlinear_eq.ipynb       # Чисельні методи пошуку коренів нелінійних рівнянь
-├── lab_interpolation.ipynb      # Інтерполяція (Лагранж, Ньютон, МНК)
-├── lab_integration.ipynb        # Чисельне інтегрування (Сімпсон, трапеції)
-└── ...                          # Інші Jupyter Notebooks із практичними дослідженнями
